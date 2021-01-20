@@ -16,3 +16,12 @@ const gargi = {
   challenge: "I'm working on the Jane Street Market Prediction competition on Kaggle"
 }
 ```
+## 📬 Get in Touch
+
+- StackOverflow: [https://stackoverflow.com/users/12782520/gargi-mahale][stackoverflow]
+- GitHub: [https://github.com/gargimahale][github]
+- LinkedIn: [https://www.linkedin.com/in/gargimahale/][linkedin]
+- Site: Coming Soon
+- E-mail: gargi.mahale1@gmail.com
+
+### 📚 Looking for my Resume? E-Mail me!
