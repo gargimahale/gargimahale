@@ -13,7 +13,7 @@ const gargi = {
   databases: ["mongo", "MySql", "sqlite"],
   web: [Django, Flask, HTML5, CSS],
   frameworks: [React, Hadoop, MapReduce, AWS(EC2, S3), Microsoft Bot Framework],
-  challenge: "I'm working on the Jane Street Market Prediction competition on Kaggle"
+  challenge: "Working on the Jane Street Market Prediction competition on Kaggle"
 }
 ```
 ### 📬 Where to find me
