@@ -12,7 +12,7 @@ const gargi = {
   machine learning: [TensorFlow, PyTorch, Keras, Fastai, Transformers],
   databases: ["mongo", "MySql", "sqlite"],
   web: [Django, Flask, HTML5, CSS],
-  frameworks: [React, Hadoop, MapReduce, AWS(EC2, S3), Microsoft Bot Framework],
+  frameworks: [React, Scrapy, Selenium, Hadoop, MapReduce, AWS(EC2, S3), Microsoft Bot Framework],
   challenge: "Working on the Jane Street Market Prediction competition on Kaggle"
 }
 ```
