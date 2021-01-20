@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="230">
 <p><em>Graduate Student at <a href="https://www.syracuse.edu/">Syracuse University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-### <img src="https://media.giphy.com/media/GypVyX5Nw0R2g/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const gargi = {
