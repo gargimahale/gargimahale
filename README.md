@@ -8,10 +8,12 @@
 ```javascript
 const gargi = {
   pronouns: "she" | "her",
-  code: [C++, Python, Java],
-  machine learning: [TensorFlow, PyTorch, Keras, Fastai, Transformers, Anaconda],
-  databases: ["MongoDB", "MySql"],
-  frameworks: [React, PySpark, Selenium, Hadoop, Django, MapReduce, AWS(EC2, S3), GCP, Node.js, Git, Microsoft Bot Framework]
+  programming languages: [C++, Python, Java, SQL, Shell Scripting (Linux)],
+  frameworks: [Scrapy, Selenium, MapReduce, Spark, React, GIT, Anaconda, OpenCV],
+  cloud services: [AWS (EC2, S3), GCP (Big Query, Cloud Storage)],
+  web development: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS, MySQL, JavaScript]
+  machine learning: [TensorFlow, PyTorch, Keras, Fastai, Transformers],
+  databases: ["MongoDB", "MySql", "HDFS"],
 }
 ```
 
