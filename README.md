@@ -15,7 +15,7 @@ const gargi = {
 }
 ```
 
-### 📚<a href="https://drive.google.com/file/d/15bY_ogiLpvLOSUYu1K2mj6FSaer5K0ks/view?usp=sharing"> Resume</a>
+### 📚<a href="https://drive.google.com/file/d/1A7y4yRxT5mldFW_8Rle-UXHzk0Lf57cC/view?usp=sharing"> Resume</a>
 
 ### 📬 Where to find me
 <p><a href="https://github.com/gargimahale" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargi_mahale" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gargimahale/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
