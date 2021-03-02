@@ -11,9 +11,9 @@ const gargi = {
   programming languages: [C++, Python, Java, SQL, Shell Scripting (Linux)],
   frameworks: [Scrapy, Selenium, MapReduce, Spark, React, GIT, Anaconda, OpenCV],
   cloud services: [AWS (EC2, S3), GCP (Big Query, Cloud Storage)],
-  web development: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS, MySQL, JavaScript]
-  machine learning: [TensorFlow, PyTorch, Keras, Fastai, Transformers],
-  databases: ["MongoDB", "MySql", "HDFS"],
+  web development: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS, JavaScript]
+  machine learning: [TensorFlow, PyTorch, Keras],
+  databases: ["MongoDB", "MySQL", "HDFS"],
 }
 ```
 
