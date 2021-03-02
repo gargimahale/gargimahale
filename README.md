@@ -8,7 +8,7 @@
 ```javascript
 const gargi = {
   pronouns: "she" | "her",
-  programming languages: [C++, Python, Java, JavaScript, SQL, Shell Scripting (Linux)],
+  languages: [C++, Python, Java, JavaScript, SQL, Shell Scripting (Linux)],
   frameworks: [Scrapy, Selenium, MapReduce, Spark, React, GIT, Anaconda, OpenCV],
   cloud services: [AWS (EC2, S3), GCP (Big Query, Cloud Storage)],
   web development: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS]
