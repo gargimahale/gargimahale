@@ -10,9 +10,9 @@ const gargi = {
   pronouns: "she" | "her",
   languages: [C++, Python, Java, JavaScript, SQL, Shell Scripting (Linux)],
   frameworks: [Scrapy, Selenium, MapReduce, Spark, React, GIT, Anaconda, OpenCV],
-  cloud services: [AWS (EC2, S3), GCP (Big Query, Cloud Storage)],
-  web development: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS]
-  machine learning: [TensorFlow, PyTorch, Keras],
+  cloudServices: [AWS (EC2, S3), GCP (Big Query, Cloud Storage)],
+  webDevelopment: [Spring Boot, D3.js, Django, Bootstrap4, Flask, HTML5, CSS]
+  machineLearning: [TensorFlow, PyTorch, Keras],
   databases: ["MongoDB", "MySQL", "HDFS"],
 }
 ```
