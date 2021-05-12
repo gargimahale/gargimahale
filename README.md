@@ -17,7 +17,5 @@ const gargi = {
 }
 ```
 
-### 📚<a href="https://drive.google.com/file/d/1A7y4yRxT5mldFW_8Rle-UXHzk0Lf57cC/view?usp=sharing"> Resume</a>
-
 ### 📬 How to Reach Me: <a href="https://www.linkedin.com/in/gargimahale/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
