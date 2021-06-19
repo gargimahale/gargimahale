@@ -8,12 +8,9 @@
 </a>
 <br />
 
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
-<p><em>Graduate Student at <a href="https://www.syracuse.edu/">Syracuse University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"></em></p>
-
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
-- I'm a CS Grad Student @ Syracuse University
+- I'm a Grad Student @ Syracuse University
 - 🛠 I’m currently working with - React/Redux, JavaScript, Machine Learning, Unity, OpenGL, Flask, etc 💻.
 - 👩🏻‍💻 I’m currently learning Full Stack Development 🚀 and CP Algorithms.
 - 💬 Ask me about anything! I am happy to help.
