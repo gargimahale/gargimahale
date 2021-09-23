@@ -21,4 +21,4 @@
 
 <br>
 
-⤵️ Check below to learn more about my projects
+⤵️ Check below to learn more about my projects!
