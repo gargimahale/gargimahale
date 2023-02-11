@@ -12,8 +12,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
-- I'm a Grad Student @ Syracuse University
-- 🛠 I’m currently working with - React/Redux, JavaScript, Machine Learning, Unity, OpenGL, Flask, etc 💻.
 - 👩🏻‍💻 I’m currently learning Full Stack Development 🚀 and CP Algorithms.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
