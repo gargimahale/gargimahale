@@ -12,8 +12,9 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
-- 👩🏻‍💻 I’m currently reading Stuff on Distributed Systems 🚀 and CP Algorithms.
-- 💬 Ask me about anything! I am happy to help.
+- 🔧 Systems thinker: nix-darwin, declarative configs, and terminal-centric workflows.
+- 📖 Deep-diving into distributed systems
+- ⌨️ Custom HE keyboard builder with mass opinions about sub mm actuation points.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: gargi.mahale1@gmail.com
 
