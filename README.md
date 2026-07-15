@@ -15,7 +15,7 @@
 - 🔧 Systems thinker: nix-darwin, declarative configs, and terminal-centric workflows.
 - 📖 Deep-diving into distributed systems
 - ⌨️ Custom HE keyboard builder with mass opinions about sub mm actuation points.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- ⚡ Fun fact: a[i] is the same as i[a] in C++. Because a[i] desugars to *(a + i), and addition commutes. So 3["hello"] compiles and gives you 'l'.
 - 📫 How to reach me: gargi.mahale1@gmail.com
 
 <br>
