@@ -8,7 +8,7 @@
 </a>
 <br />
 
-<img align='right' src="./assets/dancing-gopher.gif" width="230">
+<img align='right' src="./assets/dancing-gopher.gif" width="180">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
